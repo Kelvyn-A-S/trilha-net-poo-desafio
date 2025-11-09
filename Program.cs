@@ -14,4 +14,3 @@ Smartphone iphone = new Iphone(numero: "13456-789", modelo: "Modelo 4", imei: "1
 iphone.Apresentar();
 iphone.Ligar();
 iphone.InstalarAplicativo("Facebook");
-// TODO: Realizar os testes com as classes Nokia e Iphone
